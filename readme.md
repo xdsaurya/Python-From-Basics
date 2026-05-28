@@ -165,7 +165,7 @@ python app.py
 
 # 🤝 Connect With Me
 
-* GitHub: your-github-link
+* GitHub: https://github.com/xdsaurya
 * LinkedIn: your-linkedin-link
 
 ---
